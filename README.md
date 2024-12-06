@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm teaching at the Hochschule Konstanz (HTWG) software engineering courses.
+I'm teaching at the computer science department at the [Hochschule Konstanz (HTWG)](https://www.htwg-konstanz.de/hochschule/fakultaeten/informatik/uebersicht) software engineering courses.
 My main focus is on software quality, web technologies and cloud application development.
 
 You find more details on my home: https://www-home.htwg-konstanz.de/~meiglspe/
